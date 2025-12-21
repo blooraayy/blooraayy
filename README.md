@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! I'm BlooRay, a Data & AI engineer student</h2>
+<h2 align="left">Hey there! I'm BlooRay, a Data & AI Engineering student</h2>
 
 ###
 
