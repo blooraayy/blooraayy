@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Third-year Data & AI Engineering student with a specialized profile in Machine Learning, Computer Vision, and large-scale data processing. I combine a strong mathematical foundation with solid software engineering skills to build end-to-end AI solutions, from data preparation to model deployment.</p>
+<p align="left">Fourth-year Data & AI Engineering student with a specialized profile in Machine Learning, Computer Vision, and large-scale data processing. I combine a strong mathematical foundation with solid software engineering skills to build end-to-end AI solutions, from data preparation to model deployment.</p>
 
 ###
 
